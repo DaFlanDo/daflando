@@ -19,10 +19,10 @@
 Картинки ведут на разбор каждого проекта: что он умеет и как устроен внутри. А здесь коротко и со ссылками.
 
 **LMSSI.** Мой дипломный проект. Преподаватель загружает Word, PDF или презентацию и получает курс с уроками и тестами, который потом правит в конструкторе. Генерация идёт в фоне, а всё, что вернула модель, проверяет код, прежде чем это попадёт в курс. FastAPI, SQLAlchemy 2, PostgreSQL, React.\
-[Демо](https://lms.daflando.dev/demo/hr) · [Разбор](https://daflando.dev/lmssi/)
+[Демо](https://lms.daflando.dev/demo/hr) · [Код](https://github.com/DaFlanDo/lmssi) · [Разбор](https://daflando.dev/lmssi/)
 
 **InnoSoft Labs.** Таск-трекер: канбан, приглашения по ссылке, файлы, календарь. Задачу нельзя закрыть самому, её принимает менеджер. Права проверяются на сервере по роли в проекте, изменения приходят всем участникам сразу через Socket.IO. FastAPI, MySQL, Redis, MinIO.\
-[Демо](https://innosoft.daflando.dev/demo/manager) · [Разбор](https://daflando.dev/innosoft/)
+[Демо](https://innosoft.daflando.dev/demo/manager) · [Код](https://github.com/DaFlanDo/innosoft-labs) · [Разбор](https://daflando.dev/innosoft/)
 
 **Ryadom.** Пет-проект. Психолог отвечает на несколько вопросов и за пару минут получает свою страницу: с готовыми текстами, одной из четырёх тем и правкой прямо на странице. Всё рассчитано на телефон. Next.js, TypeScript, Supabase.\
 [Демо](https://ryadom.daflando.dev/try) · [Код](https://github.com/DaFlanDo/ryadom) · [Разбор](https://daflando.dev/ryadom/)
@@ -39,4 +39,4 @@
 
 <a href="https://t.me/daflando"><img src="assets/contact.webp" width="100%" alt="Открыт к предложениям и вакансиям. Telegram: @daflando"></a>
 
-Telegram: [@daflando](https://t.me/daflando) · сайт: [daflando.dev](https://daflando.dev)
+Telegram: [@daflando](https://t.me/daflando) · почта: [disnbsndn@gmail.com](mailto:disnbsndn@gmail.com) · сайт: [daflando.dev](https://daflando.dev) · [резюме, PDF](https://daflando.dev/dashkevich-resume.pdf)
